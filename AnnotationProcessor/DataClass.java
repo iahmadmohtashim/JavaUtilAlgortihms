@@ -1,0 +1,1 @@
+package org.pack.java.annotationProcessing;public class DataClass {    @Data(value = "Data ")    public void dataMethod(){        System.out.println("Data ");    }}
